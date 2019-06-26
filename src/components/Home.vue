@@ -79,26 +79,15 @@
 }
 
 .img{
-	  width: 2.72rem;
-    height: .61333rem;
+	  width: 3rem;
+    height: .7rem;
     position: absolute;
     top: 50%;
     left: 50%;
     margin-top: -.30667rem;
     margin-left: -1.36rem;
-    background: url(../../public/logofont.png) no-repeat;
+    background: url(../../public/logofont1.png) no-repeat;
     background-size: cover;
-}
-
-.logo{
-	position: absolute;
-  top: 17%;
-  left: 0;
-  left: 0.40rem;
-	width: 1rem;
-  height: 1rem;
-	background: url(../../public/zhuishushenqi.png) no-repeat;
-	background-size: cover;
 }
 
 .nav{

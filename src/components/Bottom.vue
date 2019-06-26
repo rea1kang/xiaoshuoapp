@@ -16,10 +16,6 @@
 	    
 	    <div class="c-info">
 	    	<div class="field">
-	    		<div class="fieldicon">
-	    			<img src="../../public/recordIcon.png"/>
-	    		</div>
-	    		
 	    		<p>沪公网安备 31011202006103号</p>
 	    	</div>
 	    	
